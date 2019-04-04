@@ -1,3 +1,15 @@
 body{
     background: #BDBDBD;
 }
+
+.formContainer{
+    background-color:#A2A2A5;
+    margin:0 auto;
+    margin-top: 20px;
+    padding:5px 5px 20px 20px;
+}
+
+#jumbotron{
+    background-color: white;
+
+}
